@@ -1,0 +1,286 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body {
+	overflow-x: hidden;
+}
+
+
+.header{
+	background-color: grey;
+	width: 100%;
+	min-height: 320px;
+	color: white;
+	font-size: 50pt;
+	   font-family: Arial;
+	   text-align: left;
+}
+
+
+.headerf {
+		padding-top: 15px;
+		font-size: 16pt;
+		text-align: left;
+		 font-family: Arial;
+	}
+
+.double-screen{
+	width: 100%;
+	display: flex;
+}
+
+.double-screen-image img{
+
+	margin: auto;
+	margin-right: 50px;
+}
+
+.header1 {
+
+	margin-left: 100px;
+
+	}
+
+
+.about {
+	background-color: white;
+	width: 100%;
+	min-height: 320px;
+	color: grey;
+	font-size: 20pt;
+	   font-family: Arial;
+	   text-align: left;
+	   display: flex;
+}
+
+.about-img {
+	display: flex;
+		padding-top: 50px;
+		padding-right: 80px;
+		margin-left: 50px;
+}
+
+.about-text {
+		width: 60%;
+		padding: 50px;
+
+	}
+
+		.about-text p {
+			font-size: 16pt;
+			padding-bottom: 15px;
+		}
+
+		.about-caption {
+			font-size: 30pt;
+			padding-bottom: 30px;
+		}
+
+
+
+	.paging {
+		background-color: silver;
+	width: 100%;
+	min-height: 320px;
+	color: white;
+	font-size: 20pt;
+	   font-family: Arial;
+	   text-align: left;
+	  display: flex;
+
+	}
+
+	.plaging-img {
+	font-size: 20pt;
+			padding-bottom: 30px;
+
+
+		}
+
+.plaging-img img{
+	border-radius: 100px;
+}
+
+.txtp {
+	margin-left: 60px;
+}
+
+.txtp1 {
+	margin-left: 110px;
+}
+
+.txtp2 {
+	margin-left: 55px;
+}
+
+
+
+.maxi {
+background-size: cover;
+	width: 100%;
+	min-height: 768px;
+	background-image: url(../img/maxi.png);
+	
+
+}
+
+
+.maxit {
+	color: white;
+	font-size: 40pt;
+	   font-family: Arial;
+	   margin-left: 50px;
+	   padding-top: 170px;
+}
+
+	.maxito {
+		color: white;
+	font-size: 15pt;
+	   font-family: Arial;
+	   margin-left: 50px;
+	   padding-top: 100px;
+	   display: flex;
+	   margin-right: 550px;
+} 
+
+
+
+.choto {
+background-color: white;
+	width: 100%;
+	min-height: 520px;
+	color: grey;
+	font-size: 20pt;
+	   font-family: Arial;
+	   text-align: left;
+	   display: flex;
+	
+}
+
+
+.choto-text {
+		width: 60%;
+		padding: 50px;
+
+}
+
+
+.choto-text p {
+			font-size: 16pt;
+			padding-bottom: 45px;
+			display:flex;
+
+		}
+
+
+.choto-img {
+	margin-left: 50px;
+	}
+
+
+.video {
+	background-color: gray;
+	width: 100%;
+	min-height: 720px;
+	color: white;
+	font-size: 20pt;
+	   font-family: Arial;
+	   
+
+}
+
+
+.video iframe {
+  padding-top: 50px;
+  margin-left: 325px;
+}
+
+
+.video-text {
+	
+	padding: 50px;
+	font-size: 16pt;
+	padding-bottom: 45px;
+	text-align: center;
+}
+
+
+.verti {
+background-color: white;
+	width: 100%;
+	min-height: 320px;
+	display: flex;
+	padding: 75px;
+}
+
+.verti-img {
+
+display: flex;
+
+}
+
+
+.contact-box {
+	color: white;
+	width: 100%;
+	min-height: 510px;
+	background-color: gray;
+   }
+
+.contactes {
+	display: flex;
+	width: 790px;
+	margin: auto;
+}
+
+	.contact-left {
+		width: 60%;
+	}
+
+
+
+.contact-left div {
+	margin-bottom: 12px;
+	text-align: center;
+}
+
+.text-box {
+	width: 500px;
+	height: 30px;
+	border-radius: 7px;
+	font-family: Arial;
+	font-size: 16pt;
+	color: #445162;
+	padding: 5px;
+}
+
+.text-area {
+	height: 170px;
+}
+
+
+.send-box {
+	width: 140px;
+	height: 40px;
+	cursor: pointer;;
+}
+	.contact-right {
+		width: 40%;
+		padding-left: 75px;
+		font-size: 16pt;
+	}
+
+
+	.contact-right div {
+		margin-bottom: 15px;
+	}
+
+	.price-caption {
+	padding-top: 50px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-size: 30pt;
+}
